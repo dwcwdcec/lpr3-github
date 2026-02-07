@@ -41,3 +41,32 @@ body {
   text-decoration: none;
   color: #111;
 }
+
+.site-main {
+  padding: 24px 0;
+}
+
+.hero {
+  padding: 24px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+}
+
+.hero h1 {
+  margin-bottom: 12px;
+}
+
+.hero p {
+  margin-bottom: 16px;
+}
+
+.btn {
+  padding: 10px 14px;
+  border: 1px solid #111;
+  background: transparent;
+  cursor: pointer;
+}
+
+.section {
+  margin-top: 24px;
+}
